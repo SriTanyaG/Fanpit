@@ -18,11 +18,6 @@ A comprehensive space booking platform that allows brand owners to create and ma
   - Location-based search with coordinates
   - Amenities management
 
-- **Booking System**
-  - Complete booking workflow
-  - Payment integration with Razorpay
-  - Booking status management (pending, confirmed, cancelled)
-  - Booking history and analytics
 
 ### 🎯 Advanced Pricing Engine
 - **Flexible Pricing Models**
